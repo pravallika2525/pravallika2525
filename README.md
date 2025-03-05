@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is  Pravallika. Currently pursuing B. Tech 3rd year .</h2>
+<h2 align="center">Hi,🙋Iam Pravallika Bandaru,Highly motivated BTech student 💻 with a passion for technology. Aspiring Java Full Stack Developer ,Proficient and  Handson experience  in frontend technologies like HTML, CSSS, JAVASCRIPT and Skilled  in programming languages  like JAVA,PYTHON. Strong understanding of computer science fundamentals and problem solving skills. Seeking an  opportunity to apply skills and knowledge in Full Stack Developmenrt and grow as professional in the software industry .</h2>
 
 ###
 

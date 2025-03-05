@@ -1,4 +1,4 @@
-<h2 align="center">Hi,🙋Iam Pravallika Bandaru,Highly motivated BTech student 💻 with a passion for technology. Aspiring Java Full Stack Developer ,Proficient and  Handson experience  in frontend technologies like HTML, CSSS, JAVASCRIPT and Skilled  in programming languages  like JAVA,PYTHON. Strong understanding of computer science fundamentals and problem solving skills. Seeking an  opportunity to apply skills and knowledge in Full Stack Developmenrt and grow as professional in the software industry .</h2>
+<h3 align="center">Hi, 🙋Iam Pravallika Bandaru<br> Java Fullstack developer -Fresher <br>Highly motivated BTech student 💻 with a passion for technology. Aspiring Java Full Stack Developer ,Proficient and  Handson experience  in frontend technologies like HTML, CSSS, JAVASCRIPT and Skilled  in programming languages  like JAVA,PYTHON. Strong understanding of computer science fundamentals and problem solving skills. Seeking an  opportunity to apply skills and knowledge in Full Stack Developmenrt and grow as professional in the software industry .</h3>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif"  />
+<img align="right" height="150" src="https://media4.giphy.com/media/nFLW7PNGgN3lI68rdv/200w.gif?cid=6c09b952ymv829rp1hnsrtec6pfq820fzamh51u6fhxb1nh1&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 
 ###
 

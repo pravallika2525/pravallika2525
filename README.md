@@ -1,5 +1,5 @@
 <img src="https://github.com/ianshulx/ianshulx/raw/main/header.gif">
-<h3 align="center">Hi, 🙋Iam Pravallika Bandaru<br> Java Fullstack developer -Fresher <br>Highly motivated BTech student 💻 with a passion for technology. Aspiring Java Full Stack Developer ,Proficient and  Handson experience  in frontend technologies like HTML, CSSS, JAVASCRIPT and Skilled  in programming languages  like JAVA,PYTHON. Strong understanding of computer science fundamentals and problem solving skills. Seeking an  opportunity to apply skills and knowledge in Full Stack Developmenrt and grow as professional in the software industry .</h3>
+<h4 align="center">Hi, 🙋Iam Pravallika Bandaru<br> Java Fullstack developer -Fresher <br>Highly motivated BTech student 💻 with a passion for technology. Aspiring Java Full Stack Developer ,Proficient and  Handson experience  in frontend technologies like HTML, CSSS, JAVASCRIPT and Skilled  in programming languages  like JAVA,PYTHON. Strong understanding of computer science fundamentals and problem solving skills. Seeking an  opportunity to apply skills and knowledge in Full Stack Developmenrt and grow as professional in the software industry .</h4>
 
 ###
 

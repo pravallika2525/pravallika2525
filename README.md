@@ -1,4 +1,4 @@
-<img width="900px" height="280px" src="https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s2048x3072/ee299068d73c2a392fc857eef0b8dd7bb830351e.gif">
+<img width="1000px" height="300px" src="https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s2048x3072/ee299068d73c2a392fc857eef0b8dd7bb830351e.gif">
 <h4 align="center">Hi, 🙋Iam Pravallika Bandaru</h4> <h2  align="center">Java Fullstack developer -Fresher</h2> <h4  align="center">Highly motivated BTech student 💻 with a passion for technology. Aspiring Java Full Stack Developer ,Proficient and  Handson experience  in frontend technologies like HTML, CSSS, JAVASCRIPT and Skilled  in programming languages  like JAVA,PYTHON. Strong understanding of computer science fundamentals and problem solving skills. Seeking an  opportunity to apply skills and knowledge in Full Stack Developmenrt and grow as professional in the software industry .</h4>
 
 ###
